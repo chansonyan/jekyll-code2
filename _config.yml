@@ -1,5 +1,6 @@
 markdown: redcarpet
 baseurl: /jekyll-code
 exclude: ['README.md']
+exclude: ['README2.md']
 permalink: pretty
-0123
+
